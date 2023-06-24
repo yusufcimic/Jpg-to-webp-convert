@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yuogphotoconvert", "yuogphotoconvert\yuogphotoconvert.csproj", "{21CD1B71-DD06-4256-95C2-A9935E9CAA19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "yuog software photo convert", "yuog software photo convert\yuog software photo convert.vdproj", "{44E728C8-5212-45B3-9CE9-8A5263911036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CD1B71-DD06-4256-95C2-A9935E9CAA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CD1B71-DD06-4256-95C2-A9935E9CAA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CD1B71-DD06-4256-95C2-A9935E9CAA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CD1B71-DD06-4256-95C2-A9935E9CAA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E728C8-5212-45B3-9CE9-8A5263911036}.Debug|Any CPU.ActiveCfg = Debug
+		{44E728C8-5212-45B3-9CE9-8A5263911036}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6383310D-439B-4F72-9AA7-FB9CF20E733F}
+	EndGlobalSection
+EndGlobal

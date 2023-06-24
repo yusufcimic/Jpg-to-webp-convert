@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xom/j40syoBB5qwArAzU1IzIYk9hhgHrLs4F699vvUWx1Pf90ICYIoU8fhlbz69jypJAmdaoKmYazluacLFG0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusuf Software\\Desktop\\Projeler\\yuogphotoconvert\\yuogphotoconvert\\yuogphotoconvert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusuf Software\\.nuget\\packages\\magick.net-q16-anycpu\\13.1.2\\magick.net-q16-anycpu.13.1.2.nupkg.sha512",
+    "C:\\Users\\Yusuf Software\\.nuget\\packages\\magick.net.core\\13.1.2\\magick.net.core.13.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
